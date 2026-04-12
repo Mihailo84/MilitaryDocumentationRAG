@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+data/index/*.json
+data/index/*.jsonl
+data/index/*.npy
+data/index/*.npz
+data/index/chroma/
